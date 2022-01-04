@@ -5,9 +5,9 @@ I made this site on [GitHub](https://github.com/jennybuni/myblog/edit/main/READM
 
 ### Post one
 
-This is my first popst to test and see if it works correctly.
+This is my first post to test and see if it works correctly.
 
-```markdown
+```Markdown
 Syntax highlighted code block
 
 # Header 1
