@@ -3,11 +3,11 @@
 I made this site on [GitHub](https://github.com/jennybuni/myblog/edit/main/README.md) using markdown files.
 
 
-### Markdown
+### Post one
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is my first popst to test and see if it works correctly.
 
-```markdown
+```
 Syntax highlighted code block
 
 # Header 1
