@@ -1,4 +1,4 @@
-## Welcome to my Blog
+# Welcome to my Blog
 
 I made this site on [GitHub](https://github.com/jennybuni/myblog/edit/main/README.md) using markdown files.
 
