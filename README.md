@@ -20,5 +20,5 @@ works as a way to post my blog, if its going to work well i may use it more.
 
 **Jenny**
 ```
-
-This is only a test to see if it works well or at all
+[^1]
+[^1]:This is only a test to see if it works well or at all
