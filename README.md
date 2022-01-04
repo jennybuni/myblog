@@ -7,7 +7,7 @@ I made this site on [GitHub](https://github.com/jennybuni/myblog/edit/main/READM
 
 This is my first post to test and see if it works correctly.
 
-```markdown
+
 
 
 # January the 4th 2022
@@ -19,6 +19,6 @@ So far i am enjoying how it all works, and i am experementing on how well github
 works as a way to post my blog, if its going to work well i may use it more. 
 
 **Jenny**
-```
+
 [^1]
 [^1]:This is only a test to see if it works well or at all
