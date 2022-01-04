@@ -7,7 +7,7 @@ I made this site on [GitHub](https://github.com/jennybuni/myblog/edit/main/READM
 
 This is my first popst to test and see if it works correctly.
 
-```
+```markdown
 Syntax highlighted code block
 
 # Header 1
