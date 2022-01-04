@@ -9,21 +9,15 @@ This is my first post to test and see if it works correctly.
 
 ```markdown
 
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# January the 4th 2022
 
-- Bulleted
-- List
+- went to a tech shop and bought my new magic keyboard for the ipad pro 
+- I also bought some memeory cards and a usbC card reader for the ipad 
 
-1. Numbered
-2. List
+So far i am enjoying how it all works, and i am experementing on how well git hub works as a way to post my blog, if its going to work well i may use it more. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Jenny**
 ```
 
 This is only a test to see if it works well or at all
