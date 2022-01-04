@@ -15,7 +15,8 @@ This is my first post to test and see if it works correctly.
 - went to a tech shop and bought my new magic keyboard for the ipad pro 
 - I also bought some memeory cards and a usbC card reader for the ipad 
 
-So far i am enjoying how it all works, and i am experementing on how well git hub works as a way to post my blog, if its going to work well i may use it more. 
+So far i am enjoying how it all works, and i am experementing on how well github
+works as a way to post my blog, if its going to work well i may use it more. 
 
 **Jenny**
 ```
